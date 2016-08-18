@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name         = "ReactiveCocoa"
-  s.version      = "2.5"
+  s.version      = "2.x-elevate"
   s.summary      = "A framework for composing and transforming streams of values."
   s.homepage     = "https://github.com/blog/1107-reactivecocoa-is-now-open-source"
   s.author       = { "Josh Abernathy" => "josh@github.com" }
-  s.source       = { :git => "https://github.com/mindsnacks/ReactiveCocoa.git", :branch => "v2.5_podspec" }
+  s.source       = { :git => "https://github.com/mindsnacks/ReactiveCocoa.git", :branch => "2.x-elevate" }
   s.license      = 'MIT'
   s.description  = "ReactiveCocoa (RAC) is an Objective-C framework for Functional Reactive Programming. It provides APIs for composing and transforming streams of values."
 
